@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703066719 source:c:\users\admin\documents\c\24-printparttern\main.c
+	<stdio.h>
+	<stdlib.h>
+

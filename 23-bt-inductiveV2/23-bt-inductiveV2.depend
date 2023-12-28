@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702822796 source:c:\users\admin\documents\c\23-bt-inductivev2\main.c
+	<stdio.h>
+	<stdlib.h>
+

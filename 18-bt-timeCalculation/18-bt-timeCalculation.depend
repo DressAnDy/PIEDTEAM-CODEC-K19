@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702477434 source:c:\users\admin\documents\c\18-bt-timecalculation\main.c
+	<stdio.h>
+	<stdlib.h>
+

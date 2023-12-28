@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702646167 source:c:\users\admin\documents\c\19-perfectsquare\main.c
+	<stdio.h>
+	<stdlib.h>
+
